@@ -57,7 +57,7 @@ ORDER BY "count" DESC;
 ### Figure 3
 ![retiree_count](Figures/retireescount_by_department.png)
 
-4. Create a new table that shows the department of each mentor: 
+4. The following queries create a new table that shows the department of each mentor, in case it is necessary in the future: 
    - NOTE: mentors_by_department table is added to Data/ folder
 
 ```
@@ -74,7 +74,7 @@ ORDER BY me.emp_no;
 
 ```
 
-5. The following query provides the count of eligible mentors per department
+5. Also for possible future use, the following query provides the count of eligible mentors per department
     - NOTE: mentorcount_by_department table was added to the Data/ folder. Figure 4 demonstrates the results of the query.
 
 ```
@@ -88,3 +88,5 @@ ORDER BY "count" DESC;
 
 ### Figure 4
 ![mentorcount_by_department](Figures/mentorcount_by_department.png)
+
+### Email: farhadk.data@gmail.com
