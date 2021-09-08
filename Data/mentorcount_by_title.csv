@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title,count
 Assistant Engineer,29
 Staff,155
@@ -5,3 +6,12 @@ Senior Staff,569
 Technique Leader,77
 Engineer,190
 Senior Engineer,529
+=======
+title,count
+Assistant Engineer,29
+Staff,155
+Senior Staff,569
+Technique Leader,77
+Engineer,190
+Senior Engineer,529
+>>>>>>> ff087d39821bdabe01fb7838c8fe5003a881bc17
